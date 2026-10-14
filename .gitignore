@@ -1,0 +1,4 @@
+memory.sqlite3
+memory.sqlite3-*
+.env
+__pycache__/
